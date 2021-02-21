@@ -26,7 +26,7 @@ Aguardar baixar os arquivos.
 9 - Utilizando o Postman ou qualquer outro similar, realizar a chamada POST ao RestController disponibilizado pela classe TestController.java
 POST http://localhost:8080/publish?message=Ola Mundo
 
-10 - a mensagem recebida via POST será exibida no console da Spring Boot Application
+10 - A mensagem recebida via POST será exibida no console da Spring Boot Application através do sysout na classe Consumer.java
 
 
 
